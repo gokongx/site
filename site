@@ -1,0 +1,19 @@
+{
+    "name": "Soho Lyrics",
+    "short_name": "Soho Lyrics",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-J0y10ehp134/XpFV4bUJ97I/AAAAAAAAGhs/UYBx_IIeizUmf_PMft99NvQzOalOAgSfACLcBGAsYHQ/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-kWrdNDLbr84/XpFV5CivcwI/AAAAAAAAGhw/-k2gFfCFgRM-yaaeic-ZAInWXua3RUH3QCLcBGAsYHQ/s1600/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
